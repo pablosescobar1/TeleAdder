@@ -17,7 +17,13 @@ def banner():
   |    |\  ___/|  |_\  ___// /_/  >  | \// __ \|  Y Y  \  /        \  \___|  | \// __ \|  |_> >  |_> >  ___/|  | \/
   |____| \___  >____/\___  >___  /|__|  (____  /__|_|  / /_______  /\___  >__|  (____  /   __/|   __/ \___  >__|   
              \/          \/_____/            \/      \/          \/     \/           \/|__|   |__|        \/    
-        """)
+       
+     Recoded By Da₹edevilkinng
+     
+     please do not change the descriptipn of code changing it doesn't make you a coder. 
+     Respect coders. Thank you.
+       
+       """)
 
 cpass = configparser.RawConfigParser()
 cpass.read('config.data')
