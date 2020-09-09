@@ -24,6 +24,8 @@ def banner():
              \/          \/_____/            \/      \/          \/     \/           \/|__|   |__|        \/    
      
      Recoded By Da₹edevilkinng
+     please do not change the descriptipn of code changing it doesn't make you a coder. 
+     Respect coders. Thank you.
         """)
 
 cpass = configparser.RawConfigParser()
