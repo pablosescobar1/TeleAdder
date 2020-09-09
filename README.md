@@ -1,7 +1,7 @@
 # Telegram-Scraper-Adder-Complete
-this version of python script will help you to add members to your telegram group without having any problems all instructions are given below please perform them step by step 100% working procedure by DareDevilKinng.
+this version of python script will help you to scrap members fron any Group/Channel/Supergroups or Superchannels as well as add members to your telegram group and also you can send concesutive message (TeleGram SMS) without having any trouble at all. All instructions are given below please perform them step by step 100% working procedure Coded by DareDevilKinng.
 
-this method is created only for education purposes only.
+This method is only created for educational purposes only.
 
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
                                              STEP BY STEP PROCEDURE 
@@ -11,7 +11,7 @@ this method is created only for education purposes only.
 # Telegram-Scraper & Adder
 
 
-NOTE : these commands are for android devices. All Android devices are supported.
+NOTE : these commands are for android devices. All Android devices are supported. On linux OS all you have to just install telethon and rest is same.
 
 
 
