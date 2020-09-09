@@ -21,8 +21,13 @@ class main():
     {re}╔╦╗{cy}┌─┐┬  ┌─┐{re}╔═╗  ╔═╗{cy}┌─┐┬─┐┌─┐┌─┐┌─┐┬─┐
     {re} ║ {cy}├┤ │  ├┤ {re}║ ╦  ╚═╗{cy}│  ├┬┘├─┤├─┘├┤ ├┬┘
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
-            Recoded By Raghav
-            """)
+            
+     Recoded By Da₹edevilkinng
+     
+     please do not change the descriptipn of code changing it doesn't make you a coder. 
+     Respect coders. Thank you.
+     
+     """)
 
     def send_sms():
         try:
