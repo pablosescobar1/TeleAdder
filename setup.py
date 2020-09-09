@@ -21,6 +21,8 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	Recoded By Da₹edevilkinng
 	THIS IS 1ST INSTANCE
+	please do not change the descriptipn of code changing it doesn't make you a coder. 
+	Respect coders. Thank you.
 	
 	""")
 
